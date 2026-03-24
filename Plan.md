@@ -9,3 +9,5 @@ Ask if the customer/player wants a desert or a main course. Allow the customer t
 # Iteration 3
 
 Add a cost calculator to each choice. Add the product value to the total cost for each decision that the customer makes.
+
+# Iteration 4
